@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  height: 100%;
+    background-image:url(css/img/thumbnail.jpg);
+}
+header{
+    height: 50px;
+    background-color: rgb(238, 199, 148);
+    overflow: hidden;
+       padding: 20px 10px;
+}
+header h2{
+    float: left;
+    margin-left: 350px;
+}
+
+header ul li{
+    
+        float: right;
+        color: black;
+        text-align: center;
+        padding: 12px;
+        text-decoration: none;
+        font-size: 18px;
+        line-height: 25px;
+        border-radius: 4px;
+        
+      }
+      main{
+          float: right;
+      }
+      table, th, td {
+        border: 1px solid black;
+        text-align: center;
+        text-decoration: none;
+        font-size: medium;
+        font-family: 'Courier New', Courier, monospace;
+      }
+      
+      table {
+        width: 50%;
+      }
+
+      form{
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        
+      }
+      
+    
+
+      
+
+
